@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ssrvswr-v3';
+const CACHE_NAME = 'ssrvswr-v4';
 const BASE = '/my-vswr-pwa/';
 
 const ASSETS = [
