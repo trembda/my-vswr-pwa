@@ -1,6 +1,6 @@
 // SSR VSWR Calculator — Service Worker
 // Mise à jour de ce numéro force le rechargement du cache
-const CACHE_NAME = 'ssrvswr-v3';
+const CACHE_NAME = 'ssrvswr-v4';
 const BASE = '/my-vswr-pwa/';
 
 const ASSETS = [
